@@ -1,29 +1,111 @@
-## 💫 About Me
+<!-- ███████████████████████ CYBERPUNK HUD BOOT SEQUENCE ███████████████████████ -->
 
-🚀 Working on my live production project **Swadbest.com**, focused on smooth UX and solid performance.  
-🤝 Open to collaborating on **React**, **Node.js**, and modern web-tech projects.  
-🔍 Currently exploring **advanced SEO**, **cloud scaling**, and high-traffic optimization.  
-⚡ Learning deeper **full-stack performance**, caching, and real-time data flows.  
-💬 Ask me about **production-ready builds**, **CSS architecture**, or the story behind **Swadbest**.  
-☕ Fun fact: Great code starts with coffee and a clear plan.
+<!-- MATRIX RAIN BACKGROUND -->
+<p align="center">
+  <img src="https://i.imgur.com/o8eQjzU.gif" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GautamSharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_gautam220022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GautamRaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:graj29584@gmail.com) 
+<!-- HOLOGRAM TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=40&duration=2500&color=00F0FF&center=true&vCenter=true&width=1000&height=120&lines=BOOTING+CYBERPUNK+HUD...;LOADING+USER:+GAUTAM+RAJ;SYSTEM+STATUS:+ONLINE;NEON+OS+V9.7+INITIATED" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=graj987&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=graj987&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=graj987&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<!-- GLITCH NAME -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=GAUTAM%20RAJ&width=1000&height=220" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- HOLOGRAPHIC SCANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/L8V2wRa.gif" width="700" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=graj987&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<!-- TERMINAL BOOT LOG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&duration=1500&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=900&height=150&lines=>+INITIALIZING+NEURAL+INTERFACE...;>+AUTH:+GAUTAM+RAJ+CONFIRMED;>+SYNCING+CYBERNETIC+DEVELOPER+PROFILE...;>+ACCESS+GRANTED;>+WELCOME+TO+THE+GRID.">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=graj987&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- HUD PROFILE BADGE -->
+<p align="center">
+  <img src="https://i.imgur.com/xXKcEGE.png" width="800" />
+</p>
+
+---
+
+# <p align="center">🧬 **OPERATIVE PROFILE: GAUTAM RAJ**</p>
+
+```
+ > CLASS        : Full-Stack Engineer  
+ > STATUS       : Active  
+ > LOCATION     : Swadbest System Node  
+ > ALIGNMENT    : Cyberpunk Network Architect  
+ > SPECIALTY    : React | Node.js | MySQL | Real-Time Ops  
+ > CLEARANCE    : Level-7 DevOps Access  
+```
+
+---
+
+# <p align="center">⚡ **TECH GRID (NEON HUD ICON SET)**</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,java,git,github,firebase,vercel,netlify,vite,bootstrap&theme=light" />
+</p>
+
+---
+
+# <p align="center">📟 SYSTEM TELEMETRY</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graj987&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=graj987&theme=chartreuse-dark&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graj987&layout=compact&theme=chartreuse-dark&hide_border=true" height="170" />
+</p>
+
+---
+
+# <p align="center">🛡 **TACTICAL DATA FEED**</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRal68rb1Be/giphy.gif" width="600" />
+</p>
+
+---
+
+# <p align="center">🧠 QUOTE MODULE</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
+</p>
+
+---
+
+# <p align="center">🌐 COMM-LINKS (NEON)</p>
+
+<p align="center">
+  <a href="https://facebook.com/GautamSharma"><img src="https://img.shields.io/badge/Facebook-00F0FF?style=for-the-badge&logo=facebook&logoColor=000" /></a>
+  <a href="https://instagram.com/mr_gautam220022"><img src="https://img.shields.io/badge/Instagram-9D00FF?style=for-the-badge&logo=instagram&logoColor=000" /></a>
+  <a href="https://linkedin.com/in/GautamRaj"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000" /></a>
+  <a href="mailto:graj29584@gmail.com"><img src="https://img.shields.io/badge/Email-FF0051?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+</p>
+
+---
+
+# <p align="center">👁 SYSTEM ACCESS LOG</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=graj987&icon=5&color=0" />
+</p>
+
+---
+
+# <p align="center">💀 FINAL CYBERPUNK TAGLINE</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=00FFF2&center=true&vCenter=true&width=800&lines=CODE+LIKE+A+MACHINE;BUILD+LIKE+A+CYBERPUNK;OPTIMIZE+LIKE+A+HACKER;WELCOME+TO+THE+GRID+GAUTAM+RAJ" />
+</p>
+
