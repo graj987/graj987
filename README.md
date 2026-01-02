@@ -1,6 +1,11 @@
-# 💫 About Me:
-I'm currently working on my live production-based site, swadbest.com,<br>where I focus on delivering a seamless user experience and robust <br>performance.<br><br>I'm looking to collaborate on open-source projects involving React, node.js<br>,or any modern web technologies.<br><br>I'm looking for help with advanced SEO strategies and scaling cloud <br>infrastructure for high-traffic sites.<br><br>I'm currently learning the intricacies of full-stack performance optimization <br>and real-time data handling<br><br>Ask me about building production-ready websites, CSS architecture, or my<br>journey with Swadbest. <br><br>Fun fact I believe the best code is written after a good cup of coffee and a <br>clear plan!<br>
+## 💫 About Me
 
+🚀 Working on my live production project **Swadbest.com**, focused on smooth UX and solid performance.  
+🤝 Open to collaborating on **React**, **Node.js**, and modern web-tech projects.  
+🔍 Currently exploring **advanced SEO**, **cloud scaling**, and high-traffic optimization.  
+⚡ Learning deeper **full-stack performance**, caching, and real-time data flows.  
+💬 Ask me about **production-ready builds**, **CSS architecture**, or the story behind **Swadbest**.  
+☕ Fun fact: Great code starts with coffee and a clear plan.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GautamSharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_gautam220022) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GautamRaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:graj29584@gmail.com) 
